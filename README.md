@@ -1,4 +1,4 @@
-# fasciste - personal site
+# uScyt - personal site
 
 My personal presentation website built with vanilla HTML, CSS and JavaScript.
 Catppuccin Macchiato theme, terminal aesthetic, matrix rain background.
